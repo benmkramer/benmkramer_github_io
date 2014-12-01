@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "name": "benmkramer.github.io",
+  "launch_path": "/index.html",
+  "description": "Ben Kramer",
+  "icons": {
+    "128": "/images/touch/icon-128x128.png"
+  },
+  "developer": {
+    "name": "Ben Kramer",
+    "url": "benmkramer.github.io"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {},
+  "locales": {
+    "en": {
+      "name": "benmkramer.github.io",
+      "description": "Ben Kramer"
+    }
+  }
+}
